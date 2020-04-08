@@ -1,0 +1,12 @@
+<component name="CopyrightManager">
+  <settings default="GNU GPL">
+    <module2copyright>
+      <element module="All" copyright="GNU GPL" />
+    </module2copyright>
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="separateBefore" value="true" />
+      <option name="separateAfter" value="true" />
+      <option name="prefixLines" value="false" />
+    </LanguageOptions>
+  </settings>
+</component>
